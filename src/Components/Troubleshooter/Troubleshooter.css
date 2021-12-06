@@ -1,0 +1,28 @@
+.red {
+  color: red;
+}
+
+.troubleshooter {
+  width: 55%;
+  margin-top: 2%;
+  margin-left: 27.5%;
+  margin-right: 27.5%;
+  border: 2px solid lightgray;
+  box-shadow: 0px 3px 3px 0px gray;
+  padding: 20px;
+}
+
+.troubleshooterFont {
+  color: gray;
+  font-size: 25px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+  text-align: center;
+  color: lightgray;
+}
+
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,34 @@
+img {
+  width: 100px;
+  height: 100px;
+  border: 1px solid white;
+  box-shadow: 0px 2px 2px 0 gray;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px 100px 100px;
+  grid-template-rows: 200px;
+  justify-content: space-around;
+  background-color: rgb(231, 241, 244);
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.furtherResources {
+  text-align: center;
+  font-size: 25px;
+}
+
+.pro {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: gray;
+}
